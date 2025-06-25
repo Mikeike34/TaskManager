@@ -6,7 +6,6 @@ import { IoMdAdd } from "react-icons/io";
 
 const TodoForm = () => {
     const [newTodo, setNewTodo] = useState("");
-    const [isPending, setIsPending] = useState(false);
     const inputRef = useRef<HTMLInputElement>(null);
 
     useEffect(() => {
