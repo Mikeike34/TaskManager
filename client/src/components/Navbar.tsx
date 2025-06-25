@@ -7,11 +7,13 @@ export default function Navbar(){
 
     return (
         <Container maxW ={"900px"}>
-            <Box bg={useColorModeValue("gray.400", "gray.700")} px={4} my={4} borderRadius={"5"}>
+            <Box bg={useColorModeValue("gray.400", "gray.700")} px={4} my={4} borderRadius={"20px"}>
                 <Flex h={16} alignItems={"center"} justifyContent={"space-between"}>
                     {/*Left Side */}
                     <Flex justifyContent={"center"} alignItems={"center"} gap ={3} display ={{base: "none", sm: "flex"}}>
-                        <Text fontSize ={"40"} alignContent={"center"}>To Do List:</Text>
+                        <Text fontSize={'40'} alignContent={"center"} fontWeight={'bold'} fontFamily={'heading'}>
+                            Task Manager
+                        </Text>
                     </Flex>
 
                     {/* Right Side */}
