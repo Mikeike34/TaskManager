@@ -115,6 +115,8 @@ Visit this application's page: [Task Manager]
 
 Email: michaeljcantone@gmail.com
 
+LinkedIn Profile: [LinkedIn]
+
 Repository Link: [Github Repository]
 
 Interact with the Project: [Task Manager]
@@ -142,4 +144,5 @@ Interact with the Project: [Task Manager]
 [Chakra-UI-url]:https://chakra-ui.com/
 [Task Manager]: https://taskmanager-production-9a11.up.railway.app/
 [Github Repository]: https://github.com/Mikeike34/TaskManager
+[LinkedIn]: https://www.linkedin.com/in/michael-cantone/
 
